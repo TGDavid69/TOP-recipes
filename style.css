@@ -1,0 +1,13 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top-text {
+    background-color: orange;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+}
+
